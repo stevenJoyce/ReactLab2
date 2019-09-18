@@ -1,0 +1,10 @@
+HTTP/1.1 301 Moved Permanently
+< Server: nginx
+< Date: Wed, 18 Sep 2019 09:22:00 GMT
+< Content-Type: text/html
+< Content-Length: 162
+< Connection: keep-alive
+< Location: https://duckduckgo.com/
+< Strict-Transport-Security: max-age=31536000
+< Expires: Thu, 17 Sep 2020 09:22:00 GMT
+< Cache-Control: max-age=31536000
